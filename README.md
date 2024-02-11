@@ -9,8 +9,7 @@
 <br>
 <br>
     
-# Buttons
-         
+# Buttons         
 **Links  ➞  Buttons**
 
 <br>
